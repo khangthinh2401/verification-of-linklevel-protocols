@@ -90,7 +90,7 @@ Queue Acknowledgment_queue;
 class Alice
 {
 public:
-    // number of messages that Bill told Alice that he had reaceived.
+    // number of messages that Bill told Alice that he had read.
     int A;
     // index of message
     int j;

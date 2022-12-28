@@ -182,6 +182,7 @@ void Test_Extended_Case() {
     alice.A2();
 
     cout << "A: " << alice.A << endl;
+    cout << "B: " << bill.B << endl;
 };
 
 int main()
